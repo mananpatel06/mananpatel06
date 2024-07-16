@@ -11,11 +11,13 @@
 
 - 📫 How to reach me **mananpatelpmv@gmail.com**
 
-
+<>views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>
 
+<>Stats
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mananpatel06&show_icons=true&locale=en" alt="mananpatel06" /></p>
 
+<>language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananpatel06&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mananpatel06&" alt="mananpatel06" /></p>

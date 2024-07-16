@@ -7,9 +7,10 @@
 
 - 💬 Ask me about **ReactJs, Redux Toolkit, NextJs, TailwindCSS, NodeJs, ExpressJs, MongoDB, Firebase, kafka, Redis, GraphQL, GSAP, Typescript.**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **mananpatelpmv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

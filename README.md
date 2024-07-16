@@ -18,7 +18,9 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mananpatel06&show_icons=true&locale=en" alt="mananpatel06" /></p>
 <br />
 <!--language -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananpatel06&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananpatel06&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
+<br />
+<br />
 <br />
 <br />
 <br />

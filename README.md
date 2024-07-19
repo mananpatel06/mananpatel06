@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>
  
 <!-- Men Gif -->
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
+<img align="right"  width =350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 
 <!--Stats -->
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mananpatel06&theme=tokyonight&show_icons=true&hide=["issues"]" alt="mananpatel06" /></p>

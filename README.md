@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Manan Patel</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!--<h3 align="center">A passionate fullstack developer from India</h3>-->
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0097B2&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Redis,GraphQL,Docker,GO.**
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mananpatel06&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mananpatel06)
 
-- 👨‍💻 My Portfolio link [https://mananpatel.netlify.app/](https://mananpatel.netlify.app/)
+<!-- Men Gif -->
+<img align="left"  width =400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 
-- 💬 Ask me about **ReactJs, Redux Toolkit, NextJs, TailwindCSS, NodeJs, ExpressJs, MongoDB, Firebase, kafka, Redis, GraphQL, GSAP, Typescript.**
-
-- 📚 What do I believe? Jack of all, Master of some.
-
-- 📫 How to reach me **mananpatelpmv@gmail.com**
+<ul align="right">
+  <li align="left"><h5>&nbsp;&nbsp;&nbsp;&nbsp;👋 A passionate fullstack developer from India</h5></li>
+  <li align="left"><h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 My <a href="https://mananpatel.netlify.app/" target="_blank">Portfolio Website</a></h5></li>
+  <li align="left"><h5>&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h5></li>
+  <li align="left"><h5>&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h5></li>
+</ul>
 
 <!--views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>
- 
-<!-- Men Gif -->
-<img align="right"  width =300 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 
 <!--Stats -->
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mananpatel06&theme=tokyonight&show_icons=true&hide=["issues"]" alt="mananpatel06" /></p>

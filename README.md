@@ -14,6 +14,7 @@
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h5>
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h5>
 </ul>
+<br><br>
 
 <!--views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>

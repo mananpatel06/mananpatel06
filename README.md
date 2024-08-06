@@ -8,13 +8,14 @@
 <img align="left"  width =400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 
 
-<ul align="right">
+<p align="right">
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 A passionate fullstack developer from India</h5>
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 My <a href="https://mananpatel.netlify.app/" target="_blank">Portfolio Website</a></h5>
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h5>
   <h5 align="left">&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h5>
-</ul>
+</p>
 <br><br>
+<br>
 
 <!--views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>

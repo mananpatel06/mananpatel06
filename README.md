@@ -5,14 +5,14 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mananpatel06&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mananpatel06)
 
 <!-- Men Gif -->
-<img align="left"  width =400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
+<img align="left"  width =350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 
 
 <p align="right">
-  <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 I’m passionate fullstack developer from India</h3>
-  <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 My <a href="https://mananpatel.netlify.app/" target="_blank">Portfolio Website</a></h3>
-  <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h3>
-  <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h3>
+  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 I’m passionate fullstack developer from India</h4>
+  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 My <a href="https://mananpatel.netlify.app/" target="_blank">Portfolio Website</a></h4>
+  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h4>
+  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h4>
 </p>
 <br>
 
@@ -25,9 +25,8 @@
 <!--language -->
 <p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananpatel06&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
+<br>
+<p align="left">
 <img height=800 align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,go,xml,json,postgresql,mysql,vue,react,next,bootstrap,tailwind,express,git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,aws&theme=nautilus&includeNames=true" />
 </p>
 

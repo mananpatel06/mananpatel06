@@ -9,7 +9,7 @@
 
 
 <p align="right">
-  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 I’m passionate fullstack developer from India</h4>
+  <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 I’m passionate fullstack developer</h4>
   <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 My <a href="https://mananpatel.netlify.app/" target="_blank">Portfolio Website</a></h4>
   <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🤝 I’m looking for collaborations and making products ...</h4>
   <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me <a href="mailto:mananpatelpmv@gmail.com" target="_blank">Email me</a></h4>

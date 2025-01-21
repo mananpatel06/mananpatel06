@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manan Patel</h1>
 <!--<h3 align="center">A passionate fullstack developer from India</h3>-->
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0097B2&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
-
+<!---
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mananpatel06&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mananpatel06)
-
+-->
 <!-- Men Gif -->
 <img align="left"  width =350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4zZGliajJxazZwd3VqdjNqbWU0eWk1aWJpdjlrbWhlaTZ4bW52MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp"  />
 

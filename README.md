@@ -21,14 +21,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananpatel06&label=Profile%20views&color=0e75b6&style=flat" alt="mananpatel06" /> </p>
 
 <!--Stats -->
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mananpatel06&theme=tokyonight&show_icons=true&hide=["issues"]" alt="mananpatel06" /></p>
+<!-- <p align="left"><img align="center" src="https://github-stats-extended.vercel.app/api?username=mananpatel06&include_all_commits=true&theme=tokyonight&show_icons=true" alt="mananpatel06" /></p> -->
 
 <!--language -->
-<p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananpatel06&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
+<p align="left" ><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=mananpatel06&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mananpatel06" /></p>
 
 <br>
 <p align="left">
-<img height=800 align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,go,xml,json,postgresql,mysql,vue,react,next,bootstrap,tailwind,express,git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,aws&theme=nautilus&includeNames=true" />
+<img height=800 align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,go,xml,json,postgresql,mysql,react,next,bootstrap,tailwind,express,git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,aws&theme=nautilus&includeNames=true" />
 </p>
 
 <!--
